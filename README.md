@@ -1,5 +1,5 @@
 ### Hi there 👋
-![hippo](https://github.com/lizakobzeva/lizakobzeva/assets/143506202/569c4a31-e468-4e98-ba5a-be517ce51285)
+![hippo](![image](https://github.com/lizakobzeva/lizakobzeva/assets/143506202/18e9d4c6-4701-4f83-b919-e8862808e67a))
 <!--
 **lizakobzeva/lizakobzeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
