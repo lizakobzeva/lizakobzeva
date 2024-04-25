@@ -1,5 +1,5 @@
 ### Hi there 👋
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![hippo](https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif)
 <!--
 **lizakobzeva/lizakobzeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
