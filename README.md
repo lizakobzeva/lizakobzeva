@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=lizakobzeva)
 
 
-<img src="https://img.freepik.com/premium-photo/a-cat-sits-at-a-computer-keyboard-looking-at-the-screen_818261-4724.jpg?size=626&ext=jpg" alt="cat" />
+<img src="[https://img.freepik.com/premium-photo/a-cat-sits-at-a-computer-keyboard-looking-at-the-screen_818261-4724.jpg?size=626&ext=jpg](https://static20.tgcnt.ru/posts/_0/12/120e664935c9feab92ebe44197a3dd38.jpg)" alt="cat" />
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva?theme=nord&height=165&width=500)
