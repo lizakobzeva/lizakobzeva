@@ -9,6 +9,6 @@
 <img src="https://avatars.mds.yandex.net/i?id=516b5f1b905b7f02c16df01bca3e9e20_l-5348623-images-thumbs&n=13" alt="cat" />
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva?theme=nord&height=215)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva?theme=nord&height=215&width=200)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizakobzeva&layout=donut)](https://github.com/lizakobzeva/github-readme-stats)
 
