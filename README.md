@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=lizakobzeva)
 
 
-<img src="https://static20.tgcnt.ru/posts/_0/12/120e664935c9feab92ebe44197a3dd38.jpg" alt="cat" />
+<img src="https://cs8.pikabu.ru/post_img/2016/08/22/5/og_og_147184799429068119.jpg" alt="cat" />
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva?theme=nord&height=165&width=500)
