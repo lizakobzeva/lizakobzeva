@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=lizakobzeva)
 
 
-<img src="https://cs8.pikabu.ru/post_img/2016/08/22/5/og_og_147184799429068119.jpg" alt="cat" />
+<img src="https://www.ixbt.com/img/n1/news/2023/4/2/ixbtmedia_Cute_cat_buys_smartphone_online_on_laptop_66bc82c2-4198-4ad4-bf0c-529bde75305d_large.png" alt="cat" />
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva?theme=nord&height=165&width=500)
