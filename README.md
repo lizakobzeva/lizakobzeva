@@ -6,11 +6,9 @@
 ![](https://komarev.com/ghpvc/?username=lizakobzeva)
 
 
-<img src='https://avatars.mds.yandex.net/i?id=d3e4a68af1b8b4b1bcfb9e0aab890c1e_l-9211418-images-thumbs&n=13' alt='cat'/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADDAF7&center=true&width=435&lines=I+am+frontend+developer+%F0%9F%98%BD" alt="Typing SVG" /></a>
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva?theme=nord)
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizakobzeva&layout=compact)](https://github.com/lizakobzeva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizakobzeva&layout=donut)](https://github.com/lizakobzeva/github-readme-stats)
 
