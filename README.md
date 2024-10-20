@@ -6,5 +6,5 @@
 
 [![codewars](https://www.codewars.com/users/lizakobzeva/badges/large)](https://www.codewars.com/users/lizakobzeva) 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva?theme=forest)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
