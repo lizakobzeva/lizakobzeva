@@ -8,4 +8,4 @@
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva?theme=forest)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizakobzeva)](https://github.com/lizakobzeva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizakobzeva&layout=compact)](https://github.com/lizakobzeva/github-readme-stats)
