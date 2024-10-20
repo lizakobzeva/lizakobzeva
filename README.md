@@ -9,6 +9,6 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1852674375267582991/8D6EE5BC9B5CB9C0E6CBB4B4DF74A4AB89E762E4/" alt="cat" />
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva?theme=nord&height=165&width=530)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva?theme=nord&height=165&width=540)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizakobzeva&layout=compact)
 
