@@ -1,6 +1,6 @@
-<h1 align='center'> Hi I am Liza ✨ </h1>
+<h1 align='center'> Hi I am Liza 😺</h1>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFDAB9&lines=I-am-a-frontend-developer)](https://git.io/typing-svg)
+🐾 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFDAB9&lines=I-am-a-frontend-developer)](https://git.io/typing-svg) 😽
 
 
 <img src='https://avatars.mds.yandex.net/i?id=d3e4a68af1b8b4b1bcfb9e0aab890c1e_l-9211418-images-thumbs&n=13' alt='cat'/>
