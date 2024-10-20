@@ -2,7 +2,7 @@
 
 <h2 align='center' ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CD71&center=true&width=435&lines=I+am+frontend+developer+%F0%9F%98%BD" alt="Typing SVG" /></a></h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lizakobzeva&theme=onedark)](https://github.com/lizakobzeva/github-profile-trophy)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva)
 
 <img src='https://avatars.mds.yandex.net/i?id=d3e4a68af1b8b4b1bcfb9e0aab890c1e_l-9211418-images-thumbs&n=13' alt='cat'/>
 
