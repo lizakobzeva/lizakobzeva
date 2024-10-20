@@ -1,4 +1,4 @@
-# Hi I am Liza ✨
+<hi align='center'> Hi I am Liza ✨ </h1>
 ## **[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFDEAD&lines=I-am-a-frontend-developer)](https://git.io/typing-svg)**
 
 
