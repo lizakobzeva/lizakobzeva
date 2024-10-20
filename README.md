@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=lizakobzeva)
 
 
-<img src="https://img.freepik.com/premium-photo/cat-using-computer_935506-1479.jpg" alt="cat" />
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1852674375267582991/8D6EE5BC9B5CB9C0E6CBB4B4DF74A4AB89E762E4/" alt="cat" />
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva?theme=nord&height=165&width=500)
