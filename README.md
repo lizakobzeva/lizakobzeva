@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I-am-a-frontend-developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I am a frontend developer) )](https://git.io/typing-svg)
 ![hippo](https://github.com/lizakobzeva/lizakobzeva/assets/143506202/18e9d4c6-4701-4f83-b919-e8862808e67a)
 <!--
 **lizakobzeva/lizakobzeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
