@@ -7,5 +7,5 @@
 <img src='https://avatars.mds.yandex.net/i?id=d3e4a68af1b8b4b1bcfb9e0aab890c1e_l-9211418-images-thumbs&n=13' alt='cat'/>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva?theme=forest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva?theme=nord)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizakobzeva&layout=compact)](https://github.com/lizakobzeva/github-readme-stats)
