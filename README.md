@@ -2,8 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I-am-a-frontend-developer)](https://git.io/typing-svg)
 [![codewars](https://www.codewars.com/users/lizakobzeva/badges/large)](https://www.codewars.com/users/lizakobzeva) 
 
-![Alt text](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA...)
-![hippo]([https://github.com/lizakobzeva/lizakobzeva/assets/143506202/18e9d4c6-4701-4f83-b919-e8862808e67a](https://avatars.mds.yandex.net/i?id=d3e4a68af1b8b4b1bcfb9e0aab890c1e_l-9211418-images-thumbs&n=13))
+<img src='https://avatars.mds.yandex.net/i?id=d3e4a68af1b8b4b1bcfb9e0aab890c1e_l-9211418-images-thumbs&n=13' alt='cat'/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
