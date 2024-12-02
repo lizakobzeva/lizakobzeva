@@ -10,5 +10,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizakobzeva&layout=compact)
-![Leetcode Stats](https://leetcard.jacoblin.cool/lizakobzeva?theme=nord&height=165&width=540)
+
 
