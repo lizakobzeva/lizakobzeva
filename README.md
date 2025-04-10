@@ -8,7 +8,26 @@
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1852674375267582991/8D6EE5BC9B5CB9C0E6CBB4B4DF74A4AB89E762E4/" alt="cat" />
 
+# :pushpin: Stats 
+[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lizakobzeva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizakobzeva&layout=compact)
-
+# :books: Technologies
+> I use this technologies now
+<table>
+    <tr>
+        <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React"><br>React</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"><br>Java Script</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=typescript" alt="typescript"><br>Type Script</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs"><br>NextJs</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"><br>Tailwind</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=redux" alt="rtkquery"><br>Redux Toolkit</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://skillicons.dev/icons?i=vite" alt="vite"><br>Vite</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=webpack" alt="webpack"><br>Web Pack</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=jest" alt="jest"><br>Jest</td>
+    </tr>
+</table>
 
